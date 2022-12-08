@@ -1,1 +1,1 @@
-# haruka_work1-4
+# JavaScript、THMLおよびSCCの練習（１）
